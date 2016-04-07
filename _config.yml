@@ -1,0 +1,28 @@
+name: The Maryland Design Center
+favicon: null
+layout_spectrum: 0.5060718809254467
+typography_spectrum: 0.3246710505336523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7816532808355987
+  lightness: 0.17982979561202228
+  saturation: 0.45671242801472545
+  rhythmicContrast: 0.5454735604580492
+purpose: []
