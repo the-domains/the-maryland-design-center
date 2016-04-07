@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Maryland Design Center]]></title>
         <description><![CDATA[The Maryland Design Center]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-maryland-design-center/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 17:48:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 17:52:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-maryland-design-center/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE MARYLAND DESIGN CENTER]]></title>
+            <description><![CDATA[<article><h1>THE MARYLAND DESIGN CENTER</h1><p>MARYLAND DESIGNS & PEYTONHOME</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08df2793-254e-4dd8-8d95-ff82c25716d1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-maryland-design-center/the-maryland-design-center/index.html</link>
+            <guid isPermaLink="false">47236e47-f499-4aa0-96ac-b27f89c3a81c</guid>
+            <pubDate>Thu, 07 Apr 2016 17:50:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63f6fbb-af15-4c49-b788-c12f296138d3.jpg">]]></description>
-            <link>undefinedc5d3e2c0-abf7-4179-b6b0-2019e6ab3bc4/index.html</link>
+            <link>https://thegrid.ai/the-maryland-design-center/c5d3e2c0-abf7-4179-b6b0-2019e6ab3bc4/index.html</link>
             <guid isPermaLink="false">c5d3e2c0-abf7-4179-b6b0-2019e6ab3bc4</guid>
             <pubDate>Thu, 07 Apr 2016 17:48:32 GMT</pubDate>
         </item>
